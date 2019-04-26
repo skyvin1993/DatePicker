@@ -3,3 +3,7 @@
 
 # Distribution 
 /dist
+
+npm.sublime-project
+npm.sublime-workspace
+.idea/

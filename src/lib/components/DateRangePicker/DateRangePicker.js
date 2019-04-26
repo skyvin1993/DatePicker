@@ -5,10 +5,10 @@ import moment from 'moment'
 
 
 import 'react-dates/lib/css/_datepicker.css'
-import './DatePicker.scss'
+import '../DatePicker.scss'
 
-import arrowLeft from './calendar-arrow-left.png';
-import arrowRight from './calendar-arrow-right.png';
+import arrowLeft from '../calendar-arrow-left.png';
+import arrowRight from '../calendar-arrow-right.png';
 
 /**
  * DateRangePicker - выбор диапазона дат

@@ -1,2 +1,2 @@
-import DatePicker from './components/ReactDatePicker/ReactDatePicker';
-export default DatePicker;
+import ReactDatePicker from './components/ReactDatePicker/ReactDatePicker';
+export default ReactDatePicker;
