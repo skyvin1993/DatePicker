@@ -944,7 +944,7 @@
     outline: none;
     border-radius: 0; }
     .DatePicker .SingleDatePickerInput_calendarIcon .field-calendar {
-      background: url(input.calendar.svg) center center no-repeat;
+      background: url(images/src/lib/components/input.calendar.svg) center center no-repeat;
       width: 100%;
       height: 100%;
       display: block; }
